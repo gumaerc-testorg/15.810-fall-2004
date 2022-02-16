@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource introduces the terms marketing strategy, and tactics.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-810-marketing-management-fall-2004/dedee4f3829222fe7e1219788c8400ab_c1_introduction.pdf
+file: /media/courses/15-810-marketing-management-fall-2004/dedee4f3829222fe7e1219788c8400ab_c1_introduction.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: c1_introduction.pdf
 uid: dedee4f3-8292-22fe-7e12-19788c8400ab

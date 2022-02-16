@@ -3,8 +3,13 @@ content_type: resource
 description: 'This resource explains the following topics: Costs, Demand: Lack of
   Data, Demand: Price Perceptions, Price Discrimination, and if the Managers Work
   All of This Out.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-810-marketing-management-fall-2004/3f99ca1cd4017968b3eca64512d7653f_class10_pricing.pdf
+file: /media/courses/15-810-marketing-management-fall-2004/3f99ca1cd4017968b3eca64512d7653f_class10_pricing.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: class10_pricing.pdf
 uid: 3f99ca1c-d401-7968-b3ec-a64512d7653f

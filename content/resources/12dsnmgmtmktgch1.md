@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource compares the marketing and management strategies of different
   companies.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-810-marketing-management-fall-2004/720f3ba2db6d7f950e3fe27847360ee2_12dsnmgmtmktgch1.pdf
+file: /media/courses/15-810-marketing-management-fall-2004/720f3ba2db6d7f950e3fe27847360ee2_12dsnmgmtmktgch1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 12dsnmgmtmktgch1.pdf
 uid: 720f3ba2-db6d-7f95-0e3f-e27847360ee2
