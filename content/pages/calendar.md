@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Calendar lists various lecture topics and case studies covered in the
+  course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

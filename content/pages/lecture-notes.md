@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Lecture notes lists various lecture topics and case studies covered in
+  the course along with class notes for some of the selected lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +27,7 @@ Lecture Notes
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture: Introduction ([PDF]({{< baseurl >}}/resources/c1_introduction))
+Lecture: Introduction ({{% resource_link dedee4f3-8292-22fe-7e12-19788c8400ab "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +36,7 @@ Lecture: Introduction ([PDF]({{< baseurl >}}/resources/c1_introduction))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture: The Customer Decision Process ([PDF]({{< baseurl >}}/resources/c2_custdecsnproc))
+Lecture: The Customer Decision Process ({{% resource_link d0616d8c-8ce5-bb0b-49f2-c183ae5182ca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +54,7 @@ Case Study: Vicks
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture: Marketing Strategy 1 ([PDF]({{< baseurl >}}/resources/c4marketstategy1))
+Lecture: Marketing Strategy 1 ({{% resource_link cd617d00-808d-243a-a4f4-4a08be6dc6a4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +63,7 @@ Lecture: Marketing Strategy 1 ([PDF]({{< baseurl >}}/resources/c4marketstategy1)
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture: Marketing Strategy 2 ([PDF]({{< baseurl >}}/resources/c5marketstategy2))
+Lecture: Marketing Strategy 2 ({{% resource_link e453c25e-d592-af97-528a-2eff6b1d96ab "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +90,7 @@ Case Study: Barco
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture: New Product Development ([PDF]({{< baseurl >}}/resources/c8productdvlpmnt))
+Lecture: New Product Development ({{% resource_link 0f93ceeb-3aa0-1249-fc2e-5e9691a91ed6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +108,7 @@ Case Study: Optical Distortion
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture: Pricing ([PDF]({{< baseurl >}}/resources/class10_pricing))
+Lecture: Pricing ({{% resource_link 3f99ca1c-d401-7968-b3ec-a64512d7653f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +126,7 @@ Case Study: Tweeter etc.
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture: Management of Marketing Channels 1 ([PDF]({{< baseurl >}}/resources/12dsnmgmtmktgch1))
+Lecture: Management of Marketing Channels 1 ({{% resource_link 720f3ba2-db6d-7f95-0e3f-e27847360ee2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +144,7 @@ Case Study: Boston Whaler
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture: Management of Marketing Channels 2 ([PDF]({{< baseurl >}}/resources/14dsnmgmtmktgch2))
+Lecture: Management of Marketing Channels 2 ({{% resource_link 5558a794-e2bf-fcc3-c8a5-df088a8de0ae "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +162,7 @@ Case Study: Michael Bregman
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture: Advertising ([PDF]({{< baseurl >}}/resources/c16_advertising))
+Lecture: Advertising ({{% resource_link 1ba00d77-2f30-5503-0178-fafc55e8b71d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +180,7 @@ Lecture: Advertising at Nike
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture: Conclusion ([PDF]({{< baseurl >}}/resources/c18_conclusion))
+Lecture: Conclusion ({{% resource_link 3e787618-86ea-e62a-05c9-f5bb1b76c3eb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
