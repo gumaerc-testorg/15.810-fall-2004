@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Readings section includes required readings for the course along with
+  the case studies for some selected topics. It also includes some background readings
+  on some selected topics of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
