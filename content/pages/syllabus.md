@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Syllabus includes information about nature and purpose of the Course,
+  course materials, evaluation of work, organization of course, forming teams, class
+  discussions, and the course ethics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

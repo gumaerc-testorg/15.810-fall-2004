@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Assignments section includes information about some general cases, group
+  case reports, along with a list questions based on the case study topics to guide
+  the report. It also includes individual case reports and a final excercise.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -14,7 +17,7 @@ The cases facilitate the discussion of marketing problems in real situations. Yo
 
 We strongly encourage you to discuss the case within your group. You will benefit from defending your ideas and you will learn by discussing other group members' approaches. For the cases that are not due as written cases, you may discuss the general issues with other students at Sloan. However, you should not discuss these cases with any students who may have studied them in a prior year. For the three written group cases you should discuss the cases only within your group. All group members should contribute to the case write-up, which is expected to be original material.
 
-Group Case Reports ([PDF]({{< baseurl >}}/resources/group))
+Group Case Reports ({{% resource_link 6319ab87-8c85-262d-f00c-55a12e23ba67 "PDF" %}})
 -----------------------------------------------------------
 
 Each group will be required to hand in three case write-ups. You may choose from the following menu:
@@ -43,7 +46,7 @@ QUESTIONS
 Barco Projection Systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/barco))
+({{% resource_link b6d035eb-1193-b719-24ab-a34e9a26182f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +55,7 @@ Barco Projection Systems
 Boston Whaler
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/boston_whaler))
+({{% resource_link fcd807fa-b124-6e33-ba36-74a9e42647fc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +64,7 @@ Boston Whaler
 Michael Bregman
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/michael_bregman))
+({{% resource_link b64ae780-17b4-c181-a910-2d4955cab5a4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +73,7 @@ Michael Bregman
 Optical Distortion
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/optical_distortn))
+({{% resource_link 5e27b9a2-92ce-5963-bf0a-85da333b2433 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +82,7 @@ Optical Distortion
 Tweeter
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/tweeter))
+({{% resource_link 19e67681-55bc-f869-0dff-d7f7ff47edde "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +91,7 @@ Tweeter
 Vestron
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/vestron))
+({{% resource_link 1df771c8-f921-f548-2960-21d3233f5e1b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +100,7 @@ Vestron
 Vicks Healthcare
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/vicks_answers))
+({{% resource_link 890a1c66-873e-596e-2dae-3073f3c11cf9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +114,7 @@ In addition to your three group case write-ups, each person must hand in an indi
 
 You will receive credit simply for handing in each of these reports on time. These reports will not be individually graded or returned, however, they will be used to help determine final grades for students close to the letter cutoffs.
 
-Final Exercise ([PDF]({{< baseurl >}}/resources/final))
+Final Exercise ({{% resource_link 9023725b-a32a-4259-d4c5-686676d22f88 "PDF" %}})
 -------------------------------------------------------
 
 A final exercise will be handed out at the start of the semester. It will be a group exercise. Instructions will be provided. A report will be due on the Monday following the final class session.
