@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource explains the process of product development and explains
   the following topics: Why Introduce New Products, and various Stages in the Process.'
 file: /courses/15-810-marketing-management-fall-2004/0f93ceeb3aa01249fc2e5e9691a91ed6_c8productdvlpmnt.pdf
+file_size: 130791
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
