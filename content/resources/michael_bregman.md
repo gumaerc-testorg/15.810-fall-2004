@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes the questions about the case study of Michael
   Bregman.
 file: /courses/15-810-marketing-management-fall-2004/b64ae78017b4c181a9102d4955cab5a4_michael_bregman.pdf
+file_size: 19515
 file_type: application/pdf
 learning_resource_types:
 - Assignments

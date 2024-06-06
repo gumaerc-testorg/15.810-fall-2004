@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the feedback, taste test, administrative issues,
   course summary, additional readings, and various electives for the course.
 file: /courses/15-810-marketing-management-fall-2004/3e78761886eae62a05c9f5bb1b76c3eb_c18_conclusion.pdf
+file_size: 108958
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
