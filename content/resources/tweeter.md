@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes questions about the case study of Tweeter.
-file: /courses/15-810-marketing-management-fall-2004/19e6768155bcf8690dffd7f7ff47edde_tweeter.pdf
+file: /ol-ocw-studio-app/courses/15-810-marketing-management-fall-2004/19e6768155bcf8690dffd7f7ff47edde_tweeter.pdf
 file_size: 20427
 file_type: application/pdf
 learning_resource_types:

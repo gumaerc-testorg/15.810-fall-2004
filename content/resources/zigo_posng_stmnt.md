@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes case questions regarding Zigo Positioning Statement
   with their answers.
-file: /courses/15-810-marketing-management-fall-2004/bd19a98a0f78351d7784a89778639e2d_zigo_posng_stmnt.pdf
+file: /ol-ocw-studio-app/courses/15-810-marketing-management-fall-2004/bd19a98a0f78351d7784a89778639e2d_zigo_posng_stmnt.pdf
 file_size: 34262
 file_type: application/pdf
 learning_resource_types:
