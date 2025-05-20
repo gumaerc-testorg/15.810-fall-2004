@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource describes: Refresher, and Solutions. Under Refresher,
   it describes the concepts of coordination, and incentives. While under Solutions,
   it describes channel design, and channel management.'
-file: /ol-ocw-studio-app/courses/15-810-marketing-management-fall-2004/5558a794e2bffcc3c8a5df088a8de0ae_14dsnmgmtmktgch2.pdf
+file: /courses/15-810-marketing-management-fall-2004/5558a794e2bffcc3c8a5df088a8de0ae_14dsnmgmtmktgch2.pdf
 file_size: 119371
 file_type: application/pdf
 learning_resource_types:

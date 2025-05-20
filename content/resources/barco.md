@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes various questions regarding case study of Barco
   Projection Systems.
-file: /ol-ocw-studio-app/courses/15-810-marketing-management-fall-2004/b6d035eb1193b71924aba34e9a26182f_barco.pdf
+file: /courses/15-810-marketing-management-fall-2004/b6d035eb1193b71924aba34e9a26182f_barco.pdf
 file_size: 11743
 file_type: application/pdf
 learning_resource_types:

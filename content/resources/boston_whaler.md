@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains various questions on the case study on Boston
   Whaler.
-file: /ol-ocw-studio-app/courses/15-810-marketing-management-fall-2004/fcd807fab1246e33ba3674a9e42647fc_boston_whaler.pdf
+file: /courses/15-810-marketing-management-fall-2004/fcd807fab1246e33ba3674a9e42647fc_boston_whaler.pdf
 file_size: 11677
 file_type: application/pdf
 learning_resource_types:
