@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information  and instructions about three case
   write-ups. It also includes some questions  to guide the reports.
-file: /ol-ocw-studio-app/courses/15-810-marketing-management-fall-2004/6319ab878c85262df00c55a12e23ba67_group.pdf
+file: /courses/15-810-marketing-management-fall-2004/6319ab878c85262df00c55a12e23ba67_group.pdf
 file_size: 12385
 file_type: application/pdf
 learning_resource_types:
