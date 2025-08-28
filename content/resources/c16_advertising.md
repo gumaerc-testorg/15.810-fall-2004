@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource presents challenges, risks, various responsibilities, and
   other related topics for advertising.
-file: /courses/15-810-marketing-management-fall-2004/1ba00d772f3055030178fafc55e8b71d_c16_advertising.pdf
+file: /ol-ocw-studio-app/courses/15-810-marketing-management-fall-2004/1ba00d772f3055030178fafc55e8b71d_c16_advertising.pdf
 file_size: 125236
 file_type: application/pdf
 learning_resource_types:
