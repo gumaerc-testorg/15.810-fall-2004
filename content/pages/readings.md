@@ -84,7 +84,7 @@ Staff. "Categorical Imperatives." _Economist_, Jan 2, 1997.
 
 Simester, D., and Marc Knez. "Direct and Indirect Bargaining Costs and the Scope of the Firm." _Journal of Business_ 75, no. 2 (2002): 283-304.
 
-{{% resource_link "e3d84a79-5141-49c3-b193-69f970f50352" "Channel Conflict on the Internet" %}}
+[Channel Conflict on the Internet](http://reshare.com/)
 
 ### Advertising
 
